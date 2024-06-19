@@ -1,0 +1,6 @@
+@LogicalEFCoreDel_HostAddress = http://localhost:5259
+
+GET {{LogicalEFCoreDel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
